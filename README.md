@@ -1,1 +1,2 @@
 # compscihw
+theme: minimal
