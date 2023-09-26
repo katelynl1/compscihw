@@ -12,23 +12,23 @@
   <h2><strong>Genre</strong></h2>
     <ul>
       <li><a href="#modern romance">Modern Romance</a></li>
-      <li>Historical Romance</li>
-      <li>Villainess</li>
-      <li>Action</li>
-      <li>Comedy</li>
-      <li>Completed</li>
+      <li><a href="#historical romance">Historical Romance</a></li>
+      <li><a href="#villainess">Villainess</a></li>
+      <li><a href="#action">Action</a></li>
+      <li><a href="#comedy">Comedy</a></li>
+      <li><a href="#completed">Completed</a></li>
     </ul>
   <div id="modern romance">
   <h2><strong>Modern Romance</strong></h2>
-
+  <div id="historical romance">
   <h2><strong>Historical Romance</strong></h2>
-
+  <div id="villainess">
   <h2><strong>Villainess</strong></h2>
-
+  <div id="action">
   <h2><strong>Action</strong></h2>
-
+  <div id="comedy">
   <h2><strong>Comedy</strong></h2>
-
+  <div id="completed">
   <h2><strong>Completed</strong></h2>
 </body>
 </html>
