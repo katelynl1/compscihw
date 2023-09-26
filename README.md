@@ -4,7 +4,7 @@
     <title>Manhwa Recommendation</title>
   </head>
 <style>
-  body {background: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fpastel-marble-swirl-background-handmade-feminine-flowing-texture-experimental-art_20046119.htm&psig=AOvVaw28-sAsMszrQqtp8kZoLBnY&ust=1695833653324000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCKCpouveyIEDFQAAAAAdAAAAABAJ"}
+  body {background: #f2fffe}
 </style>
 <body>
   <h1><strong>Manhwa Recommendation</strong></h1>
