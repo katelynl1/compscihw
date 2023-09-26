@@ -1,6 +1,8 @@
 # compscihw
 <html>
-  <title>Manhwa Recommendation</title>
+  <head>
+    <title>Manhwa Recommendation</title>
+  </head>
 <body>
   <h1><strong>Manhwa Recommendation</strong></h1>
     <p>A list of manhwa/manhua/manga recommendations me and my friends came up with.</p>
